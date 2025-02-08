@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">Conversor de moedas</string>
+    <string name="titulo">CONVERSOR DE MOEDAS</string>
+    <string name="converter">CONVERTER</string>
+    <string name="quantidadedolar">Digite a quantidade em dólar</string>
+    <string name="cotacaodolar">Digite a cotação do dólar</string>
+    <string name="resultado">Resultado:</string>
 </resources>
+
+<!--<string name="dolar">Dólar</string>
+<string name="real">Real</string>
+<string name="iene">Iene (Japonês)</string>-->
